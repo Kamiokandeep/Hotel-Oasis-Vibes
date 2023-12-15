@@ -117,6 +117,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h1, .h1 {
@@ -490,6 +491,7 @@ progress {
   font-size: 1.25rem;
   font-weight: 300;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .display-1 {
@@ -10924,10 +10926,10 @@ section p {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: black;
+  background-color: #0083B0;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #0083B0;
 }
